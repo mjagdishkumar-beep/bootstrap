@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+
+body{
+    background: url(clock.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.hero{
+    color: black;
+    margin-top: 20%;
+    margin-left: 80%;
+    text-align: center;
+    font-size: 75px;
+    line-height: 1.2em;
+    font-family: 'Rubik Moonrocks';
+}
+
+.ima{
+    height: 100px;
+    width: 200px;
+}
